@@ -162,13 +162,6 @@ if __name__ == "__main__":
     )
 
     gds_db.run("""
-    How many squads are there in Cloud Provider Enablement product area
+    Give the query related to your graph schema
     """)
 
-    gds_db.run("""
-    list the squads who are using  Terraform?
-    """)
-
-    gds_db.run("""
-    what are the skills used by SWAT & Automation squad ?
-    """)
